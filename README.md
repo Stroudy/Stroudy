@@ -2,7 +2,7 @@
 
 `Aspiring Web Developer`
 
-<p align="left">I'm Steven Stroud, an aspiring web developer on a journey to master the art of `<coding>`. With a strong foundation in HTML and CSS, I'm currently diving deep into JavaScript to enhance my skills and bring my web development projects to life.</p>
+<p align="left">I'm Steven Stroud, an aspiring web developer on a journey to master the art of coding. With a strong foundation in HTML and CSS, I'm currently diving deep into JavaScript to enhance my skills and bring my web development projects to life.</p>
 
 <h2 align="left">💻 Current Focus:</h2>
 
